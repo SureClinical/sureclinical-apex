@@ -1,0 +1,5 @@
+
+2021-5-27 22:54:11 - Cannot access cache file when tested. Tested file: https://sureclinical.com/wp-content/uploads/pum/pum-site-styles.css Error given: cURL error 28: Operation timed out after 5000 milliseconds with 0 bytes received
+2021-10-01 10:38:20 - Getting uploads directory failed. Error given: Unable to create directory wp-content/uploads/2021/10. Is its parent directory writable by the server?
+2021-10-01 10:38:20 - Getting uploads directory failed. Error given: Unable to create directory wp-content/uploads/2021/10. Is its parent directory writable by the server?
+2021-12-02 15:00:17 - Cannot access cache file when tested. Tested file: https://sureclinical.com/wp-content/uploads/pum/pum-site-scripts.js Error given: cURL error 28: Operation timed out after 5001 milliseconds with 0 bytes received

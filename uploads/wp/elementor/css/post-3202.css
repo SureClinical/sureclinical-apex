@@ -1,0 +1,9 @@
+.elementor-3202 .elementor-element.elementor-element-a82dda5 > .elementor-container{max-width:1280px;}.elementor-3202 .elementor-element.elementor-element-a82dda5{margin-top:010px;margin-bottom:20px;padding:0px 20px 0px 20px;}.elementor-3202 .elementor-element.elementor-element-573fa767 > .elementor-element-populated{margin:100px 60px 0px 0px;--e-column-margin-right:60px;--e-column-margin-left:0px;}.elementor-3202 .elementor-element.elementor-element-b8353f7 .elementor-heading-title{font-family:"Nunito_1", Sans-serif;font-size:42px;font-weight:400;line-height:48px;}.elementor-3202 .elementor-element.elementor-element-6ccb9d9f > .elementor-widget-container{margin:16px 0px 0px 0px;}.elementor-3202 .elementor-element.elementor-element-6ccb9d9f{text-align:start;font-family:"Nunito_1", Sans-serif;font-size:18px;line-height:30px;color:#75757d;}.elementor-3202 .elementor-element.elementor-element-2694e0e0 > .elementor-element-populated{margin:100px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;}.elementor-3202 .elementor-element.elementor-element-36bf9dad > .elementor-widget-container{margin:0px 0px 0px 0px;}.elementor-3202 .elementor-element.elementor-element-a834408{font-family:"Nunito_1", Sans-serif;}:root{--page-title-display:none;}@media(min-width:481px){.elementor-3202 .elementor-element.elementor-element-573fa767{width:60%;}.elementor-3202 .elementor-element.elementor-element-2694e0e0{width:40%;}}/* Start custom CSS for wp-widget-wpforms-widget, class: .elementor-element-92ef489 */.wpforms-form button[type=submit] {
+    background-color: #024488 !important;
+    border-color: #024488 !important;
+    color: #fff !important;
+}
+ 
+.wpforms-form button[type=submit]:hover {
+    background-color: #022B57 !important;
+}/* End custom CSS */

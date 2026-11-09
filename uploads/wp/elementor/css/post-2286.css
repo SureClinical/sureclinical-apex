@@ -1,0 +1,15 @@
+.elementor-2286 .elementor-element.elementor-element-ee7e998{margin-top:10%;margin-bottom:0%;}.elementor-2286 .elementor-element.elementor-element-d61faaf .elementor-heading-title{font-weight:800;}.elementor-2286 .elementor-element.elementor-element-9dae5c4{color:#0c0c0c;}#elementor-popup-modal-2286{background-color:rgba(0,0,0,.8);justify-content:center;align-items:center;pointer-events:all;}#elementor-popup-modal-2286 .dialog-message{width:100vw;height:100vh;align-items:flex-start;}#elementor-popup-modal-2286 .dialog-close-button{display:flex;}#elementor-popup-modal-2286 .dialog-widget-content{box-shadow:2px 8px 23px 3px rgba(0,0,0,0.2);}@media(max-width:480px){.elementor-2286 .elementor-element.elementor-element-8ac6b80{width:100%;}}/* Start custom CSS for text-editor, class: .elementor-element-9dae5c4 */.menu-services-mobile a{
+    color: #36474f;
+    display: block;
+    font-weight: 600;
+    padding-left: 80px;
+}
+.menu-services-mobile a:hover{
+    color: #36474f;
+    text-decoration: none;
+}/* End custom CSS */
+/* Start custom CSS */@media screen and (max-width: 600px){
+    .elementor-popup-modal .dialog-widget-content{
+        width: 100% !important;
+    }
+}/* End custom CSS */

@@ -1,0 +1,1 @@
+location /aioseo-test-server-redirects-24c8944465b68d91706412502c70380d { add_header X-Redirect-By "AIOSEO Server Test"; return 301 /aioseo-test-server-redirects-intercepted; }

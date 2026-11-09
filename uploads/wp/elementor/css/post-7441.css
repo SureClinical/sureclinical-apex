@@ -1,0 +1,193 @@
+.elementor-7441 .elementor-element.elementor-element-22f45a1e > .elementor-container{max-width:1140px;}.elementor-7441 .elementor-element.elementor-element-472f5468{font-family:"Nunito_1", Sans-serif;font-size:14px;font-weight:bold;}.elementor-7441 .elementor-element.elementor-element-5f3262db .elementor-heading-title{font-family:"Nunito_1", Sans-serif;font-size:52px;font-weight:bold;line-height:62px;}.elementor-7441 .elementor-element.elementor-element-2e412531{font-family:"Nunito_1", Sans-serif;font-size:18px;color:#5A5A5E;}.elementor-7441 .elementor-element.elementor-element-204dfd0e .elementor-button{font-family:"Nunito_1", Sans-serif;font-size:14px;font-weight:bold;}.elementor-7441 .elementor-element.elementor-element-f0a5ba3 > .elementor-widget-container{margin:0px 0px 0px 16px;}.elementor-7441 .elementor-element.elementor-element-f0a5ba3 .elementor-button{font-family:"Nunito_1", Sans-serif;font-size:14px;font-weight:bold;}.elementor-7441 .elementor-element.elementor-element-49b864d8{color:#5A5A5D;}.elementor-7441 .elementor-element.elementor-element-739bb5ef .elementor-heading-title{font-family:"Nunito_1", Sans-serif;font-size:48px;line-height:57px;color:#202021;}.elementor-7441 .elementor-element.elementor-element-7e679a24{font-family:"Nunito_1", Sans-serif;font-size:18px;line-height:25px;}.elementor-7441 .elementor-element.elementor-element-35900a6e .elementor-tab-title, .elementor-7441 .elementor-element.elementor-element-35900a6e .elementor-tab-title:before, .elementor-7441 .elementor-element.elementor-element-35900a6e .elementor-tab-title:after, .elementor-7441 .elementor-element.elementor-element-35900a6e .elementor-tab-content, .elementor-7441 .elementor-element.elementor-element-35900a6e .elementor-tabs-content-wrapper{border-width:0px;}.elementor-7441 .elementor-element.elementor-element-35900a6e .elementor-tab-title{font-family:"Nunito_1", Sans-serif;font-size:14px;}.elementor-7441 .elementor-element.elementor-element-67eb5cd > .elementor-widget-container{background-color:#90CAF9;margin:0px 0px 0px 0px;padding:0px 0px 0px 20px;}.elementor-7441 .elementor-element.elementor-element-67eb5cd{text-align:start;}.elementor-7441 .elementor-element.elementor-element-67eb5cd .elementor-heading-title{font-family:"Nunito_1", Sans-serif;font-size:28px;font-weight:bold;line-height:3em;color:#FFFFFF;}@media(max-width:769px){.elementor-7441 .elementor-element.elementor-element-518b6463.elementor-column > .elementor-widget-wrap{justify-content:center;}.elementor-7441 .elementor-element.elementor-element-f0a5ba3 > .elementor-widget-container{margin:0px 0px 0px 0px;}}@media(min-width:481px){.elementor-7441 .elementor-element.elementor-element-518b6463{width:44.123%;}.elementor-7441 .elementor-element.elementor-element-ec6f51f{width:55.877%;}.elementor-7441 .elementor-element.elementor-element-03a7800{width:10%;}.elementor-7441 .elementor-element.elementor-element-1f640c1{width:90%;}}@media(max-width:769px) and (min-width:481px){.elementor-7441 .elementor-element.elementor-element-518b6463{width:100%;}.elementor-7441 .elementor-element.elementor-element-ec6f51f{width:100%;}.elementor-7441 .elementor-element.elementor-element-0112a32{width:50%;}.elementor-7441 .elementor-element.elementor-element-045ae1e{width:50%;}.elementor-7441 .elementor-element.elementor-element-6a874a6{width:50%;}}@media(max-width:480px){.elementor-7441 .elementor-element.elementor-element-22f45a1e{padding:20px 0px 0px 0px;}.elementor-7441 .elementor-element.elementor-element-76010c0{padding:20px 0px 20px 0px;}.elementor-7441 .elementor-element.elementor-element-49b864d8{padding:20px 0px 20px 0px;}.elementor-7441 .elementor-element.elementor-element-03a7800{width:20%;}.elementor-7441 .elementor-element.elementor-element-1f640c1{width:80%;}}/* Start custom CSS for section, class: .elementor-element-76010c0 */.btn.elementor-widget.elementor-widget-button {
+    display: inline-block;
+    width: auto;
+    margin-right: 5px;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-55d44d83 */.hero-page-img img {
+    width: 100%;
+    vertical-align: middle;
+    border-style: none;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-22f45a1e */.hero-page {
+    color: #202021;
+    opacity: 0.8;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 140%;
+    padding: 117px 0 178px;
+}
+.hero-page-text {
+    max-width: 483px;
+}
+.hero-page-text .subtitle {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 19px;
+    text-transform: uppercase;
+    margin-bottom: 24px;
+}
+.hero-page-text h1 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 52px;
+    line-height: 120%;
+    margin-bottom: 24px;
+}
+.hero-page-text p {
+    margin-bottom: 35px;
+}
+.btn:not(:disabled):not(.disabled) {
+    cursor: pointer;
+}
+.hero-page-text .btn a {
+    color: #ffffff;
+    background-color: #1976D2;
+    padding: 18px 32px;
+    border-radius: 30px;
+    border: 2px solid #1976D2;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+    font-weight: 500;
+}
+.hero-page-text .btn a {
+    display: inline-block;
+}
+.hero-page-text .btn.white  a {
+    color: #1976D2;
+    background-color: #fff;
+}
+
+@media (max-width: 1179px) {
+.header-left {order:1;}
+.header-right {order:0;}
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-739bb5ef */.about-wrapper .tittle h2 {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 120%;
+    margin-bottom: 24px;
+}/* End custom CSS */
+/* Start custom CSS for tabs, class: .elementor-element-35900a6e */.about .elementor-tab-desktop-title.elementor-active {
+    background-color: #4a82e8;
+    -webkit-transition: .3s;
+    transition: .3s;
+    color: #fff;
+}
+
+.about .elementor-tab-desktop-title.elementor-active:hover {
+    color: #fff !important;
+    opacity: 0.8;
+}
+
+.about .elementor-tab-desktop-title {
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 100%;
+    margin-bottom: 0;
+    background-color: inherit;
+    padding: 18px 32px;
+    border-radius: 30px;
+    -webkit-transition: .3s;
+    transition: .3s;
+    color: #4a82e8;
+}
+
+.about .elementor-tabs-wrapper {
+    border: 2px solid #4a82e8;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 30px;
+    max-width: -webkit-fit-content;
+    max-width: -moz-fit-content;
+    max-width: fit-content;
+    margin: 0 auto 48px;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-48c8f38a */.about-wrapper {
+    max-width: 770px;
+    margin: 0 auto;
+}
+.about-wrapper p {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 140%;
+    text-align: center;
+    margin-bottom: 48px;
+}
+.about-wrapper .about-radio {
+    border: 2px solid #4A82E8;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border-radius: 30px;
+    max-width: -webkit-fit-content;
+    max-width: -moz-fit-content;
+    max-width: fit-content;
+    margin: 0 auto 48px;
+}
+.about-wrapper .about-radio label {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 100%;
+    margin-bottom: 0;
+    background-color: inherit;
+    padding: 18px 32px;
+    border-radius: 30px;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+}
+.about-wrapper .about-radio label.checked-item {
+    background-color: #4A82E8;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+}
+.about-wrapper .about-radio label {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 100%;
+    margin-bottom: 0;
+    background-color: inherit;
+    padding: 18px 32px;
+    border-radius: 30px;
+    -webkit-transition: 0.3s;
+    transition: 0.3s;
+}
+label {
+    position: relative;
+    z-index: 2;
+}
+label {
+    display: inline-block;
+}
+input[type=radio], input[type=checkbox] {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 0;
+}
+label input {
+    display: none;
+}
+
+form.about-radio label {
+    cursor: pointer;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-49b864d8 */.about {
+    text-align: center;
+    background-color: #F4F8FF;
+    padding: 126px 0 153px;
+    color: #5A5A5D;
+    opacity: 0.8;
+}/* End custom CSS */
+/* Start custom CSS for column, class: .elementor-element-20b6aaf */.grid-section {
+    text-align: center;
+    color: #202021;
+    padding: 0px 0 70px;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-418ba7d */.section-section {
+    opacity: 0.8
+}/* End custom CSS */

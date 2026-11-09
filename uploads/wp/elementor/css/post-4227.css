@@ -1,0 +1,115 @@
+.elementor-4227 .elementor-element.elementor-element-76342735{margin-top:40px;margin-bottom:0px;}.elementor-4227 .elementor-element.elementor-element-7a28ec8a > .elementor-element-populated{border-style:solid;border-width:0px 1px 0px 0px;border-color:#e7e7e7;}.elementor-4227 .elementor-element.elementor-element-27eb5c0f{--grid-row-gap:27px;--grid-column-gap:33px;}.elementor-4227 .elementor-element.elementor-element-27eb5c0f > .elementor-widget-container{margin:0px 0px 30px 0px;padding:0px 0px 0px 0px;}.elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-post__thumbnail__link{width:100%;}.elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-post__card{border-width:0px;}.elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-post__text{margin-top:20px;}.elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-post__title, .elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-post__title a{color:#4a82e8;font-family:"Barlow", Sans-serif;font-size:42px;font-weight:600;line-height:55px;}.elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-post__title{margin-bottom:16px;}.elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-post__excerpt p{font-family:"Barlow", Sans-serif;font-size:18px;line-height:30px;}.elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-post__read-more{color:#ffffff;}.elementor-4227 .elementor-element.elementor-element-27eb5c0f a.elementor-post__read-more{font-family:"Roboto", Sans-serif;font-size:15px;font-weight:400;line-height:15px;}.elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-pagination{text-align:left;font-family:"Roboto", Sans-serif;font-size:16px;}.elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-pagination .page-numbers:not(.dots){color:#4176bb;}.elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-pagination .page-numbers.current{color:#ffffff;}body:not(.rtl) .elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-pagination .page-numbers:not(:first-child){margin-left:calc( 0px/2 );}body:not(.rtl) .elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-pagination .page-numbers:not(:last-child){margin-right:calc( 0px/2 );}body.rtl .elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-pagination .page-numbers:not(:first-child){margin-right:calc( 0px/2 );}body.rtl .elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-pagination .page-numbers:not(:last-child){margin-left:calc( 0px/2 );}.elementor-4227 .elementor-element.elementor-element-2b3f0a45 > .elementor-widget-container{margin:0px 0px 0px 0px;padding:0px 0px 30px 0px;border-style:solid;border-width:0px 0px 1px 0px;border-color:#e7e7e7;}.elementor-4227 .elementor-element.elementor-element-2b3f0a45 .elementor-search-form__container{min-height:50px;}.elementor-4227 .elementor-element.elementor-element-2b3f0a45 .elementor-search-form__submit{min-width:calc( 1.2 * 50px );--e-search-form-submit-text-color:#ffffff;background-color:rgba(74,130,232,0.79);--e-search-form-submit-icon-size:20px;}body:not(.rtl) .elementor-4227 .elementor-element.elementor-element-2b3f0a45 .elementor-search-form__icon{padding-left:calc(50px / 3);}body.rtl .elementor-4227 .elementor-element.elementor-element-2b3f0a45 .elementor-search-form__icon{padding-right:calc(50px / 3);}.elementor-4227 .elementor-element.elementor-element-2b3f0a45 .elementor-search-form__input, .elementor-4227 .elementor-element.elementor-element-2b3f0a45.elementor-search-form--button-type-text .elementor-search-form__submit{padding-left:calc(50px / 3);padding-right:calc(50px / 3);}.elementor-4227 .elementor-element.elementor-element-2b3f0a45:not(.elementor-search-form--skin-full_screen) .elementor-search-form__container{background-color:rgba(0,0,0,0.04);border-radius:3px;}.elementor-4227 .elementor-element.elementor-element-2b3f0a45.elementor-search-form--skin-full_screen input[type="search"].elementor-search-form__input{background-color:rgba(0,0,0,0.04);border-radius:3px;}.elementor-4227 .elementor-element.elementor-element-45dffde .elementor-button{background-color:var( --e-global-color-464635eb );text-shadow:0px 0px 10px rgba(0,0,0,0.3);border-radius:5px 5px 5px 5px;}.elementor-4227 .elementor-element.elementor-element-45dffde > .elementor-widget-container{margin:20px 20px 20px 20px;}.elementor-4227 .elementor-element.elementor-element-3831103e{z-index:0;}@media(max-width:480px){.elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-posts-container .elementor-post__thumbnail{padding-bottom:calc( 0.5 * 100% );}.elementor-4227 .elementor-element.elementor-element-27eb5c0f:after{content:"0.5";}.elementor-4227 .elementor-element.elementor-element-27eb5c0f .elementor-post__thumbnail__link{width:100%;}}@media(min-width:481px){.elementor-4227 .elementor-element.elementor-element-7a28ec8a{width:66.826%;}.elementor-4227 .elementor-element.elementor-element-2d212108{width:33.174%;}}/* Start custom CSS for posts, class: .elementor-element-27eb5c0f */.elementor-post__read-more{
+    padding: 12px 24px;
+    background: #4a82e8;
+       box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.5) !important;
+        border-radius:5px;
+        
+}
+.page-numbers.current{
+    
+        background: none repeat scroll 0 0 #1e2022;
+}
+.page-numbers{
+ 
+    padding: 10px 15px;
+    border-radius: 3px;
+    -webkit-transition: all .2s ease;
+    -moz-transition: all .2s ease;
+    -o-transition: all .2s ease;
+    transition: all .2s ease;
+}
+.elementor-pagination{
+       margin-top: 20px;
+}
+.elementor-post{
+        border-bottom: 1px solid #e7e7e7;
+}
+.elementor-posts-container .elementor-post__thumbnail__link{
+    width: auto !important;
+    margin-left: 30px;
+}/* End custom CSS */
+/* Start custom CSS for button, class: .elementor-element-45dffde */.elementor-post__read-more {
+    box-shadow: none !important;
+}/* End custom CSS */
+/* Start custom CSS for wp-widget-archives, class: .elementor-element-46101c11 */.elementor-widget-wp-widget-archives ul{
+list-style-type: none;
+
+}
+.elementor-widget-wp-widget-archives ul li{
+    margin-left: 25px;
+    position: relative;
+}
+.elementor-widget-wp-widget-archives ul li:before{
+        content: "";
+    position: absolute;
+    left: -22px;
+    top: 30%;
+    bottom: 50%;
+    margin: auto;
+    width: 2px;
+    height: 2px;
+    border-radius: 50%;
+    background: #999;
+}
+.elementor-widget-wp-widget-archives{
+    border-bottom: 1px solid #e7e7e7;
+}
+.elementor-widget-wp-widget-archives h5{
+    padding-left: 49px;
+    padding-bottom: 20px ;
+       color: #4176bb;
+       font-size: 20px;
+       font-family: Roboto, Arial,Helvetica, sans-serif;
+}
+.elementor-widget-wp-widget-archives ul li{
+    padding-bottom: 10px;
+
+     margin-right: 40px;
+      font-family: Roboto, Arial,Helvetica, sans-serif !important;
+}
+.elementor-widget-wp-widget-archives ul li a{
+color: #4176bb !important;
+font-size: 15px;
+ font-family: Roboto, Arial,Helvetica, sans-serif !important;
+}/* End custom CSS */
+/* Start custom CSS for wp-widget-categories, class: .elementor-element-3831103e */.elementor-widget-wp-widget-categories ul{
+list-style-type: none;
+
+}
+.elementor-widget-wp-widget-categories ul li{
+    position: relative;
+margin-left: 25px;
+}
+.elementor-widget-wp-widget-categories ul li:before{
+        content: "";
+    position: absolute;
+    left: -22px;
+    top: 30%;
+    bottom: 50%;
+    margin: auto;
+    width: 2px;
+    height: 2px;
+    border-radius: 50%;
+    background: #999;
+}
+.elementor-widget-wp-widget-categories{
+    border-bottom: 1px solid #e7e7e7;
+}
+.elementor-widget-wp-widget-categories h5{
+    padding-left: 49px;
+    padding-bottom: 20px ;
+       color: #4176bb;
+       font-size: 20px;
+       font-family: Roboto, Arial,Helvetica, sans-serif;
+}
+.elementor-widget-wp-widget-categories ul li{
+    padding-bottom: 10px;
+
+     margin-right: 40px;
+      font-family: Roboto, Arial,Helvetica, sans-serif !important;
+}
+.elementor-widget-wp-widget-categories ul li a{
+color: #4176bb !important;
+font-size: 15px;
+ font-family: Roboto, Arial,Helvetica, sans-serif !important;
+}/* End custom CSS */
